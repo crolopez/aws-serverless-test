@@ -1,2 +1,3 @@
-# serverless-test
-A small project for testing purposes.
+# Serverless test
+
+Simple project to test AWS lambda functions.
