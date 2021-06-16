@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "repository": "git@github.com:crolopez/serverless-test.git",
   "author": "Cristobal Lopez <crolopezp@gmail.com>",
+  "scripts": {
+    "deploy": "serverless deploy --stage pre"
+  },
   "license": "GPL-3.0",
   "dependencies": {
     "serverless": "^2.46.0"
